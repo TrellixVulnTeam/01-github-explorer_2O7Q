@@ -1,7 +1,5 @@
 import { useState } from "react";
 
-// hook => Gancho
-
 export function Counter() {
 const [counter, setCounter] = useState(0);
 
