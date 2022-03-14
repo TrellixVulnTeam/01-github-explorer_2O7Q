@@ -11,4 +11,5 @@ Neste Módulo foi criado a estrutura base de um aplicação React utilizando as 
 - Propriedades
 - Estados
 - Hooks
-Aplicandoo Typescript no Projeto para adicionar tipagem estática à aplicação.
+
+Aplicando o Typescript no Projeto para adicionar tipagem estática à aplicação.
